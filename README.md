@@ -1,2 +1,2 @@
-# youtarget-mobile
+# yourtarget-mobile
 yourtarget mobile client
